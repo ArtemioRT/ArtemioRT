@@ -6,7 +6,7 @@
 
 </div>
 <p>I am a student of the Computer Engineering degree. 🎓 I am a passionate learner who is always eager to learn and work with technologies. I love exploring new technologies and trying to solve real-life problems 🚀. Apart from that, I also enjoy listening to music 🎵 and playing games 🎮. Currently, I am focusing on Full Stack web development 🕸️.</p>
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="./Profile.jpg">
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">
 
