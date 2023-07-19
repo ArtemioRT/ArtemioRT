@@ -55,7 +55,29 @@
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     
-</p>
+- 🕑︎ Time Zone: NA GMT-6
+
+- 💬 Programming Languages:
+
+Markdown                 3 hrs 41 mins       ████████████████░░░░░░░░░   62.08 % <br>
+JavaScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.62 % <br>
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % <br>
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % <br>
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % <br>
+
+-💻 Operating System: 
+
+Windows                   5 hrs 57 mins       █████████████████████████  100.00 %<br>
+Ubuntu                    5 hrs 57 mins       █████████████████████████  100.00 %<br>
+
+Last Updated on 19/07/2023 09:25:00 UTC
+<br>
+
+<p align="center"> <img src="https://profile-counter.glitch.me/{ArtemioRT}/count.svg" alt="ArtemioRT" /> </p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 
 <br> 
 
