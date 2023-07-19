@@ -1,10 +1,14 @@
-<h1 align="center">Hi,I'm Artemio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h1 align="center">Hi,I'm Artemio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left">Contact: <br>
+  E-mail:artemioefrainriveradelatorre@gmail.com <br>
+  Linkedin profile:www.linkedin.com/in/artemio-efraín-rivera-de-la-torre-23b353284</p>
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
+
 <p>I am a student of the Computer Engineering degree. 🎓 I am a passionate learner who is always eager to learn and work with technologies. I love exploring new technologies and trying to solve real-life problems 🚀. Apart from that, I also enjoy listening to music 🎵 and playing games 🎮. Currently, I am focusing on Full Stack web development 🕸️.</p>
 <img align="right" alt="Coding" width="600" src="./Profile.jpg">
 
