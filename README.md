@@ -6,7 +6,7 @@
 
 </div>
 <p>I am a student of the Computer Engineering degree. 🎓 I am a passionate learner who is always eager to learn and work with technologies. I love exploring new technologies and trying to solve real-life problems 🚀. Apart from that, I also enjoy listening to music 🎵 and playing games 🎮. Currently, I am focusing on Full Stack web development 🕸️.</p>
-<img align="right" alt="Coding" width="450" src="./Profile.jpg">
+<img align="right" alt="Coding" width="600" src="./Profile.jpg">
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">
 
@@ -59,19 +59,19 @@
 - 🕑︎ Time Zone: NA GMT-6
 
 - 💬 Programming Languages:
-
+<p align="center">
 JavaScrpit               ██████████████████░░░░░░░   70% <br>
 PHP                      ██████████░░░░░░░░░░░░░░░   40% <br>
 CSS3                     ████████████████████░░░░░   80% <br>
 C                        ██████████████████░░░░░░░   70% <br>
 Java                     ████████████░░░░░░░░░░░░░   50% <br>
 Python                   ██████████░░░░░░░░░░░░░░░   40% <br>
-
+</p>
 -💻 Operating System: 
-
+<p align="center">
 Windows                   ████████████████████████  100.00% <br><br>
 Ubuntu                    ████████████████████████  100.00% <br><br>
-
+</p>
 Last Updated on 19/07/2023 09:25:00
 <br>
 
